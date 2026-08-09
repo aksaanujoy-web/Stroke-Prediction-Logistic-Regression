@@ -363,8 +363,16 @@ This project is developed for **educational and academic purposes only**. The pr
 Academic Machine Learning Project
 
 
-```text
+text
 Stroke_Prediction_Logistic_Regression.ipynb
-```
 
-Then your GitHub repository will contain the **README + notebook + visualizations**, which directly matches the assignment requirements.
+ Results
+
+### Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
+
+### ROC Curve
+
+![ROC Curve](roc_curve.png)
+
